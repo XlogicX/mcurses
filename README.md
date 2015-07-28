@@ -9,4 +9,4 @@ perl polypatcher.pl battleship
 These games/programs are meant to be played/viewed from within a debugger. Development is being tested in GNU/Linux 32-bit with the edb debugger.
 
 For a demonstartion of the compilation, patching, and execution, see:<br>
-xlogicx.net/files/mcurses.mov
+http://xlogicx.net/files/mcurses.mov
