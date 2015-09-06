@@ -10,3 +10,6 @@ libxtst-dev (for keyboard emulation, this library may be under a different name 
 g++-multilib (if doing this in 64 bit host)
 
 To compile, just run 'make' from within the connect4 directory (where the Makefile is)...and cross fingers
+
+None of the above description can really do justice to knowing what this actual looks like in a debugger, so below is a video of this in action:
+http://xlogicx.net/files/connect4.m4v
